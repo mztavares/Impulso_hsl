@@ -1,0 +1,20 @@
+.container {
+  max-width: 80px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header {
+  background: white;
+  padding: 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.pagina {
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
